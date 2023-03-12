@@ -16,9 +16,9 @@
             </td>
 
             <td>
-            <a href = "Home.html">Home</a> |
-            <a href = "Login.html">Login</a> |
-            <a href = "Registration.html">Registration</a>
+            <a href = "prb1.html">Home</a> |
+            <a href = "prb3.html">Login</a> |
+            <a href = "prb2.html">Registration</a>
             </td>
         </tr> 
     </table> 
